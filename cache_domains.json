@@ -78,9 +78,9 @@
 			"domain_files": ["rockstar.txt"]
 		},
 		{
-			"name": "sony",
-			"description": "CDN for sony / playstation",
-			"domain_files": ["sony.txt"]
+			"name": "lancommander",
+			"description": "CDN for LAN Commander",
+			"domain_files": ["lancommander.txt"]
 		},
 		{
 			"name": "square",
